@@ -1,5 +1,5 @@
 
-# Image-lernen-statt-zahlen
+# Lernen-statt-zahlen
 
 ![Lernen statt Zahlen Banner](Banner-Warenkorb.jpeg)
 
